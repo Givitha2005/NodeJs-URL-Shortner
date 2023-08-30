@@ -1,11 +1,11 @@
 export const env = {
-    api : "http://localhost:4000/auth",
-    api1 : "http://localhost:4000/api",
-    redirect : "http://localhost:4000/api/shortUrl"
+    // api : "http://localhost:4000/auth",
+    // api1 : "http://localhost:4000/api",
+    // redirect : "http://localhost:4000/api/shortUrl"
 
-    // api : "https://urlshortener-backend-sooty.vercel.app/auth",
-    // api1 : "https://urlshortener-backend-sooty.vercel.app/api",
-    // redirect : "https://urlshortener-backend-sooty.vercel.app/api/shortUrl"
+    api : "https://url-shortner-backend-2zqb.onrender.com/auth",
+    api1 : "https://url-shortner-backend-2zqb.onrender.com/api",
+    redirect : "https://url-shortner-backend-2zqb.onrender.com/api/shortUrl"
     
     
 }
